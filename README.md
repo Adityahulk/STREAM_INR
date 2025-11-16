@@ -147,6 +147,12 @@ This is the most critical step.
 1.  **Download:** Go to the PhysioNet CHB-MIT Database page:
     `https://physionet.org/content/chbmit/1.0.0/`
 
+    or
+    ```bash
+    # Download at correct location directly
+    wget -r -N -c -np https://physionet.org/files/chbmit/1.0.0/
+    ```
+
 2.  **Get the files:** Download the **"Download the ZIP file (42.6 GB)"** link.
 
 3.  **Organize:**
