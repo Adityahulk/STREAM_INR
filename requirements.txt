@@ -1,0 +1,14 @@
+# Core PyTorch library
+torch
+
+# Mamba State Space Model and its dependency
+mamba-ssm
+einops
+
+# EEG data processing
+mne
+
+# General utilities and metrics
+numpy
+scikit-learn
+tqdm
