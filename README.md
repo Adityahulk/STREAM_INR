@@ -127,7 +127,7 @@ Stream-INR-Project/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://[your-git-repo-url]/Stream-INR-Project.git
+git clone https://github.com/Adityahulk/STREAM_INR.git
 cd Stream-INR-Project
 ```
 
