@@ -137,16 +137,7 @@ This project requires Python 3.9+ and PyTorch.
 
 ```bash
 # Install core libraries
-pip install torch numpy scikit-learn tqdm
-
-# Install the Mamba State Space Model package
-pip install mamba-ssm
-
-# Install the Einops library (a Mamba dependency)
-pip install einops
-
-# Install MNE for reading EEG (.edf) files
-pip install mne
+pip install -r requirements.txt
 ```
 
 ### Step 3: Download and Organize the Dataset ‼️
